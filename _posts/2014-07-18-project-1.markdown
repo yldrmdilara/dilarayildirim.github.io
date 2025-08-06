@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pendulum Simulation"
-img: pendulum.png
+img: pendulum.jpg
 alt: "Pendulum Simulation Preview"
 modal-id: pendulum
 ---
